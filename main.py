@@ -1,7 +1,7 @@
 # task 1
 name = "Kirill"
 day = "Thursday"
-print ("Good day" , name  ,'!', day ,"is a perfect day to learn some python." , end = '\n')
+print (f'Good day {name}! {day} is a perfect day to learn some python.' , end = '\n')
 # task 2
 first_name = 'kirill'
 last_name = 'kovalskyi'
